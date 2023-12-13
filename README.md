@@ -35,6 +35,7 @@ Performance loss, accessibility issues, and high costs are factors that fall amo
 The term "antivirus" refers to security software that provides protection against viruses and, more broadly, detects, prevents, and removes all types of malicious software [6]. Antivirus programs are designed to protect computers from harmful programs. While antivirus programs are generally tasked with finding and removing malicious programs, they may have additional functions based on user preferences [5].
 
 The development of antivirus software is categorized into four generations:
+
 • *First generation:* Simple scanners: First-generation scanners require virus signatures to identify the virus. Scanners that rely on specific signatures have limited functionality in detecting known viruses.
 
 • *Second generation:* Intuitive/exploratory scanners: Second-generation software does not rely on a specific signature. These scanners use more intuitive/exploratory rules and primarily scan for the possibility of being a virus. They analyze the tendency of viruses to encrypt and find the encryption key accordingly.
